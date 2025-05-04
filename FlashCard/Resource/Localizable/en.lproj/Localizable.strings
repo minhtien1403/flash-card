@@ -1,0 +1,70 @@
+/* 
+  LocalizableString.strings
+  FlashCard
+
+  Created by tientm on 21/12/2023.
+  
+*/
+"numberOfCards" = "Number of cards";
+"createdDate" = "Created Date";
+"lastAccessDate" = "Last access date";
+"english" = "English";
+"vietnamese" = "Vietnamese";
+"dashboardTabTitle" = "Deck board";
+"settingTabTitle" = "Setting";
+"delete" = "Delete";
+"quizz" = "Quizz";
+"language" = "Language";
+"feedback" = "Feedback";
+"emptyDeckMessage" = "You haven't created any decks yet\nPlease create one to start learning";
+"addNewDeck" = "Add New Deck";
+"enterDeckName" = "Please enter deck name";
+"cancelButton" = "Cancel";
+"createButton" = "Create";
+"confirmDeleteDeck" = "Are you sure that you want to delete this deck?";
+"addCard" = "Add";
+"editCard" = "Edit";
+"addNewCard" = "Add New Card";
+"enterFrontCard" = "Enter front card content";
+"enterBackCard" = "Enter back card content";
+"notCreateAnyCardYet" = "You haven't created any card yet\nPlease create some to start learning";
+"confirmDeleteCard" = "Are you sure that you want to delete this card";
+"editCardContent" = "Edit this card";
+"done" = "Done";
+"syncData" = "Sync Data";
+"purchasePro" = "Buy Pro Version";
+"restorePurchase" = "Restore Purchase";
+"support" = "Support";
+"answerQuizzMessage" = "Please select correct answer for: ";
+"finish" = "Finish";
+"great" = "Great";
+"practiceMore" = "Practice more";
+"welldone" = "Well done";
+"resultMessage" = "You answered correctly";
+"finishQuizzesMessage" = "Are you sure to finish this quizzes";
+"createQuizzMessage" = "How many quizzes do you want this time?";
+"checkIcloudStatus" = "Checking your icloud account status";
+"syncViaIcloud" = "Sync via icloud";
+"couldNotDetermine" = "Could not determine your account status now. Please try again later";
+"available" = "Your account status is normal. You can turn this switch to sync data across your device ";
+"restricted" = "Your account is restricted";
+"noAccount" = "You have not login to any icloud account on this device. Please login to use this feature";
+"temporarilyUnavailable" = "Your account temporarily unavailable for this service. Please try again later";
+"speakButton" = "Speak";
+"subcribePremium" = "Subscribe to premium to receive the following benefits";
+"continuePurchase" = "Continue Purchase";
+"unlimitedDeck" = "Unlimited deck create";
+"unlimitedCard" = "Unlimite card create";
+"syncDataBenefit" = "Sync data across device";
+"monthlyPlan" = "Monthly Plan - 1.99$/month";
+"annualPlan" = "Annual Plan - 9.99$/year";
+"lifeTimePlan" = "Life time - 19.99$";
+"monthlyPlanNote" = "Bill monthly. Cancel anytime";
+"annualPlanNote" = "Bill yearly. Cancel anytime";
+"lifeTimePlanNote" = "One time payment. Life time access";
+"privacyPolicy" = "Privacy policy";
+"termOfServices" = "Term of serivces";
+"unlockPremiumMessage" = "You need buy premium version to use this feature";
+"unlockPremiumForMoreDeck" = "You need buy premium version to create more Deck";
+"unlockPremiumForMoreCard" = "You need buy premium version to create more Card";
+

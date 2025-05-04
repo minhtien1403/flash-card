@@ -1,0 +1,69 @@
+/* 
+  LocalizableString.strings
+  FlashCard
+
+  Created by tientm on 21/12/2023.
+  
+*/
+"numberOfCards" = "Số lượng thẻ";
+"createdDate" = "Ngày tạo";
+"lastAccessDate" = "Lần cuối truy cập";
+"english" = "Tiếng Anh";
+"vietnamese" = "Tiếng Việt";
+"dashboardTabTitle" = "Bảng";
+"settingTabTitle" = "Cài đặt";
+"delete" = "Xoá";
+"quizz" = "Đố";
+"language" = "Ngôn ngữ";
+"feedback" = "Góp ý";
+"emptyDeckMessage" = "Bạn chưa tạo bộ flash card nào\nHãy tạo 1 bộ để bắt đầu học";
+"addNewDeck" = "Tạo bộ thẻ mới";
+"enterDeckName" = "Hãy nhập tên bộ thẻ";
+"cancelButton" = "Huỷ";
+"createButton" = "Tạo";
+"confirmDeleteDeck" = "Bạn có chắc chắn muốn xoá bộ thẻ này không";
+"addCard" = "Thêm";
+"editCard" = "Sửa";
+"addNewCard" = "Thêm thẻ mới";
+"enterFrontCard" = "Nhập mặt trước thẻ";
+"enterBackCard" = "Nhập mặt sau thẻ";
+"notCreateAnyCardYet" = "Bạn vẫn chưa tạo tấm thẻ nào\nHãy tạo một vài thẻ để bắt đầu học nhé";
+"confirmDeleteCard" = "Bạn có chắc chắn muốn xoá thẻ này không";
+"editCardContent" = "Sửa thẻ này";
+"done" = "Xong";
+"syncData" = "Đồng bộ dữ liệu";
+"purchasePro" = "Mua phiên bản pro";
+"restorePurchase" = "Khôi phục thanh toán";
+"support" = "Hỗ trợ";
+"answerQuizzMessage" = "Hãy chọn đáp án đúng cho: ";
+"finish" = "Hoàn thành";
+"great" = "Tuyệt vời";
+"practiceMore" = "Hãy luyện tập thêm";
+"welldone" = "Làm tốt lắm";
+"resultMessage" = "Bạn đã trả lời đúng";
+"finishQuizzesMessage" = "Bạn chắc chắn muốn kết thúc bài kiểm tra này chứ";
+"createQuizzMessage" = "Bạn muốn tạo bao nhiêu câu hỏi lần này?";
+"checkIcloudStatus" = "Đang kiểm tra trạng thái tài khoản icloud của bạn";
+"syncViaIcloud" = "Đồng bộ qua icloud";
+"couldNotDetermine" = "Không thể xác nhận trạng thái tài khoản của bạn lúc này. Hãy thử lại sau";
+"available" = "Tài khoản của bạn hoạt động bình thường. Hãy bật công tắc này để đồng bộ dữ liệu giữa các thiết bị của bạn";
+"restricted" = "Tài khoản của bạn đang bị hạn chế. Bạn tạm thời không thể sử dụng dịch vụ này";
+"noAccount" = "Bạn chưa đăng nhập vào bất kỳ tài khoản nào trên thiết bị này. Hãy đăng nhập để sử dụng tính năng này";
+"temporarilyUnavailable" = "Tài khoản của bạn tạm thời không khả dụng. Hãy thử lại sau";
+"speakButton" = "Đọc";
+"subcribePremium" = "Đăng ký gói premium để nhận được những quyền lợi sau";
+"continuePurchase" = "Tiếp tục thanh toán";
+"unlimitedDeck" = "Tạo bộ thẻ không giới hạn";
+"unlimitedCard" = "Tạo thẻ không giới hạn";
+"syncDataBenefit" = "Đồng bộ dữ liệu giữa các thiết bị";
+"monthlyPlan" = "Theo tháng - 49,000đ/tháng";
+"annualPlan" = "Theo năm - 299,000đ/năm";
+"lifeTimePlan" = "Trọn đời - 499,000đ";
+"monthlyPlanNote" = "Thanh toán hàng tháng. Huỷ bất cứ lúc nào";
+"annualPlanNote" = "Thanh toán hàng năm. Huỷ bất cứ lúc nào";
+"lifeTimePlanNote" = "Thanh toán một lần, sử dụng trọn đời";
+"privacyPolicy" = "Chính sách bảo mật";
+"termOfServices" = "Điều khoản sử dụng";
+"unlockPremiumMessage" = "Bạn cần đăng ký gói premium để sử dụng tính năng này";
+"unlockPremiumForMoreDeck" = "Bạn cần đăng ký gói premium để có thể tạo thêm bộ thẻ";
+"unlockPremiumForMoreCard" = "Bạn cần đăng ký gói premium để có thể tạo thêm thẻ";
